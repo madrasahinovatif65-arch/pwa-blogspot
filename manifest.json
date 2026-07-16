@@ -1,0 +1,15 @@
+{
+  "name": "Madrasah Inovatif",
+  "short_name": "Blog Anda",
+  "start_url": "https://blogspot.com",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://drive.google.com/uc?export=view&id=18BUkBmWCe_0kmA2-46eSypstgCBXCWgH",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
